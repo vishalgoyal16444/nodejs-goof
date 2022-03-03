@@ -1,5 +1,5 @@
 # FROM node:6-stretch
-FROM node:17.0.0-bullseye-slim
+FROM node:17.3.1-bullseye-slim
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
